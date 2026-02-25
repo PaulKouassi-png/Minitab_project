@@ -1,4 +1,4 @@
-# Minitab_projects
+# Minitab_Projects
 This repository contains different tasks solved using Minitab. Minitab is a statistical software package developed in 1972 at Pennsylvania State University by researchers Barbara F. Ryan, Thomas A. Ryan Jr., and Brian L. Joiner, with Triola Statistics Company funding. Distributed globally by the privately owned Minitab, LLC, headquartered in State College, Pennsylvania, the software provides tools for data visualization, statistical analysis, and predictive analytics. Its user-friendly interface supports statistical tests like regression and ANOVA, graphical representations, and predictive modeling, particularly for Six Sigma professionals and in industries such as manufacturing and healthcare.
 
 # Tasks Covered 
