@@ -10,7 +10,7 @@ Tasks covered include the following things:
  
  ** Descriptive Statistics: Normality test, Graphical descriptive statistics, etc.
 
- ** Inferential Statistics Using Continuous Data: 
+ ** Inferential Statistics Using Continuous Data: T-test, analysis of variance, 
 
  ** Inferential Statistics Using Categorical Data
 
