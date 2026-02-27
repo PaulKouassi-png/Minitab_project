@@ -9,7 +9,7 @@ Tasks covered include the following things:
  ** **Data Visualization**: Barchart, Pie chart, Heatmap, Pareto chart, bubble plot, scatterplot, time series plot, individual value  
                             plot, dotplot, histogram, boxplot, area chart, confidence interval plot, etc.
  
- ** **Descriptive Statistics**: Normality test, Descriptive statistics, Graphical descriptive statistics, etc.
+ ** **Descriptive Statistics**: Normality test, Descriptive statistics, Graphical descriptive statistics, Correlation etc.
 
  ** **Inferential Statistics**: T-test, analysis of variance, One-Way ANOVA, comparing means (Wilcoxon Test, Mann-Whitney test, Kruskal Wallis Test), etc.
 
