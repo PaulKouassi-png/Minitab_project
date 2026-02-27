@@ -6,7 +6,7 @@ Tasks covered include the following things:
 
  ** Data Organization: Stacking/Unstacking data, Random number generation
  
- ** Data Vizualization: Barchart, Pie chart, Heatmap, Pareto chart, bubble plot, scatterplot, time series plot, individual value plot,                           dotplot, histogram, boxplot, area chart, confidence interval plot, etc.
+ ** Data Visualization: Barchart, Pie chart, Heatmap, Pareto chart, bubble plot, scatterplot, time series plot, individual value plot,                           dotplot, histogram, boxplot, area chart, confidence interval plot, etc.
  
  ** Descriptive Statistics: Normality test, Graphical descriptive statistics, etc.
 
