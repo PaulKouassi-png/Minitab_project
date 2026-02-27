@@ -4,13 +4,14 @@ This repository contains different tasks solved using Minitab. Minitab is a stat
 # Tasks Covered 
 Tasks covered include the following things:
 
- ** Data Organization: Stacking/Unstacking data, Random number generation
+ ** **Data Organization**: Stacking/Unstacking data, Random number generation
  
- ** Data Visualization: Barchart, Pie chart, Heatmap, Pareto chart, bubble plot, scatterplot, time series plot, individual value plot,                           dotplot, histogram, boxplot, area chart, confidence interval plot, etc.
+ ** **Data Visualization**: Barchart, Pie chart, Heatmap, Pareto chart, bubble plot, scatterplot, time series plot, individual value  
+                            plot, dotplot, histogram, boxplot, area chart, confidence interval plot, etc.
  
- ** Descriptive Statistics: Normality test, Graphical descriptive statistics, etc.
+ ** **Descriptive Statistics**: Normality test, Graphical descriptive statistics, etc.
 
- ** Inferential Statistics: T-test, analysis of variance, One-Way ANOVA
+ ** **Inferential Statistics**: T-test, analysis of variance, One-Way ANOVA, comparing means, etc.
 
 
 
