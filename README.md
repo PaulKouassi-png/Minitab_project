@@ -11,8 +11,11 @@ Tasks covered include the following things:
  
  ** **Descriptive Statistics**: Normality test, Descriptive statistics, Graphical descriptive statistics, Correlation etc.
 
- ** **Inferential Statistics**: T-test, analysis of variance, One-Way ANOVA, comparing means (Wilcoxon Test, Mann-Whitney test, Kruskal Wallis Test), etc.
+ ** **Inferential Statistics**: T-test, analysis of variance, One-Way ANOVA, comparing means (Wilcoxon Test, Mann-Whitney test, 
+                                 Kruskal Wallis Test), etc.
 
   ** **Predictive Statistics**: Regression Analysis
+
+   ** **Six Sigma**: Measurement System Analysis (Gage R&R)
 
 
