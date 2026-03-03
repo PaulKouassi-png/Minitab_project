@@ -16,6 +16,6 @@ Tasks covered include the following things:
 
   ** **Predictive Statistics**: Regression Analysis
 
-   ** **Six Sigma**: Measurement System Analysis (Gage R&R and Attribute agreement analysis)
+   ** **Six Sigma**: Measurement System Analysis (Gage R&R and Attribute agreement analysis), SPC Charts
 
 
