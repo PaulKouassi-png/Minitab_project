@@ -17,6 +17,6 @@ Tasks covered include the following things:
   ** **Predictive Statistics**: Regression Analysis
 
    ** **Six Sigma**: Measurement System Analysis (Gage R&R and Attribute agreement analysis), SPC Charts (I-MR, X bar-R, C chart, U 
-                                 chart, P chart, NP chart), process capability 
+                                 chart, P chart, NP chart), process capability, acceptance sampling
 
 
